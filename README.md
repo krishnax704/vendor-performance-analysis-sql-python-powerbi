@@ -261,7 +261,7 @@ By implementing these recommendations, the business can achieve **sustainable pr
 **Krishna Gupta**
 
 [![Email](https://img.shields.io/badge/Email-krishnagupta231296%40gmail.com-red?style=flat-square&logo=gmail)](mailto:krishnagupta231296@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%208317404881-green?style=flat-square&logo=whatsapp)](tel:+91 8368061760)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%208368061760-green?style=flat-square&logo=whatsapp)]
 
 ---
 
