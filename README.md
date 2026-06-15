@@ -182,7 +182,7 @@ Large orders are ~72% cheaper per unit than small orders — a strong incentive 
 ---
 
 ### 🗂️ Details Grid Dashboard
-![Details Grid Dashboard]((https://github.com/krishnax704/vendor-performance-analysis-sql-python-powerbi/blob/main/dashboard/details_grid_dashboard.png))
+![Details Grid Dashboard](https://github.com/krishnax704/vendor-performance-analysis-sql-python-powerbi/blob/main/dashboard/details_grid_dashboard.png)
 
 > Filterable product-level table with vendor name, description, total sales, total purchases, gross profit, profit margin, and unsold capital. Supports slicing by description and vendor name.
 
