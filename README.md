@@ -175,14 +175,14 @@ Large orders are ~72% cheaper per unit than small orders — a strong incentive 
 ---
 
 ### 📈 Overview Dashboard
-![Overview Dashboard]([https://raw.githubusercontent.com/your-username/your-repo/main/dashboard_images/overview_dashboard.png](https://github.com/krishnax704/vendor-performance-analysis-sql-python-powerbi/blob/main/dashboard/overview_dashboard.png))
+![Overview Dashboard](https://github.com/krishnax704/vendor-performance-analysis-sql-python-powerbi/blob/main/dashboard/overview_dashboard.png)
 
 > KPI cards showing $441M total sales, $134M gross profit, and 38.72% profit margin. Includes vendor contribution pie chart, top vendors bar chart, top brands ranking, low-performing vendor chart, and target brands scatter plot.
 
 ---
 
 ### 🗂️ Details Grid Dashboard
-![Details Grid Dashboard](https://raw.githubusercontent.com/your-username/your-repo/main/dashboard_images/details_grid_dashboard.png)
+![Details Grid Dashboard]((https://github.com/krishnax704/vendor-performance-analysis-sql-python-powerbi/blob/main/dashboard/details_grid_dashboard.png))
 
 > Filterable product-level table with vendor name, description, total sales, total purchases, gross profit, profit margin, and unsold capital. Supports slicing by description and vendor name.
 
